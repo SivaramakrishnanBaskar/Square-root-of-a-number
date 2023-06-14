@@ -28,6 +28,8 @@ def newton_methods(x,x_iters=100):
 a=int(input())
 print("Square root of the number:",newton_methods(a))
 ```
+## Program Statement: 
+![image](https://github.com/SivaramakrishnanBaskar/Square-root-of-a-number/assets/119476322/8bbde879-a091-47d3-b709-cecda7a76228)
 
 ## Output:
 ![image](https://github.com/SivaramakrishnanBaskar/Square-root-of-a-number/assets/119476322/284e8b58-f886-45c6-9ffc-5861bcb0bb04)
